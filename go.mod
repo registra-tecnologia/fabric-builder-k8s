@@ -41,10 +41,10 @@ require (
 	github.com/prometheus/procfs v0.16.1 // indirect
 	github.com/vladimirvivien/gexe v0.5.0 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
-	go.opentelemetry.io/otel v1.36.0 // indirect
-	go.opentelemetry.io/otel/trace v1.36.0 // indirect
+	go.opentelemetry.io/otel v1.47.0 // indirect
+	go.opentelemetry.io/otel/trace v1.47.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
-	go.yaml.in/yaml/v3 v3.0.4 // indirect
+	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/mod v0.36.0 // indirect
 	golang.org/x/sync v0.21.0 // indirect
 	golang.org/x/tools v0.45.0 // indirect
@@ -58,7 +58,7 @@ require (
 
 require (
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
-	github.com/go-logr/logr v1.4.3 // indirect
+	github.com/go-logr/logr v1.4.4 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
